@@ -9,7 +9,7 @@ Repositorio de análisis técnico y resolución de máquinas prácticas.
 
 ---
 
-## 🔍 Sobre este repositorio
+## 🌟 Sobre este repositorio
 Este espacio reúne mis **writeups y notas técnicas** de máquinas resueltas en plataformas como **Hack The Box**, **TryHackMe**, y otros entornos de **CTF orientados a ciberseguridad**.
 
 El objetivo principal es documentar mi proceso de aprendizaje, reforzar conceptos clave y consolidar habilidades fundamentales para el rol de **Analista SOC** y Blue Team:
