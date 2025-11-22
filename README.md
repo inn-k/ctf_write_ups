@@ -4,12 +4,11 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) \
-Repositorio de análisis técnico y resolución de máquinas prácticas.
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
 
 ---
 
-## 🌟 Sobre este repositorio
+## 🌟 Descripción
 Este espacio reúne mis **writeups y notas técnicas** de máquinas resueltas en plataformas como **Hack The Box**, **TryHackMe**, y otros entornos de **CTF orientados a ciberseguridad**.
 
 El objetivo principal es documentar mi proceso de aprendizaje, reforzar conceptos clave y consolidar habilidades fundamentales para el rol de **Analista SOC** y Blue Team:
