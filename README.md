@@ -7,6 +7,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) \
 Repositorio de análisis técnico y resolución de máquinas prácticas.
 
+---
+
 ## 🔍 Sobre este repositorio
 Este espacio reúne mis **writeups y notas técnicas** de máquinas resueltas en plataformas como **Hack The Box**, **TryHackMe**, y otros entornos de **CTF orientados a ciberseguridad**.
 
@@ -20,6 +22,8 @@ El objetivo principal es documentar mi proceso de aprendizaje, reforzar concepto
 
 Cada writeup busca mantener un enfoque **claro, estructurado y replicable**, priorizando la comprensión técnica por encima de la ejecución automática.
 
+---
+
 ## 📁 Contenido
 En este repositorio se puede encontrar:
 
@@ -27,6 +31,8 @@ En este repositorio se puede encontrar:
 •  **Notas de laboratorio** y metodologías de análisis  
 •  **Comandos, scripts y técnicas utilizadas**  
 •  **Aprendizajes clave y referencias**  
+
+---
 
 ## 🎯 Objetivo
 **Registrar el progreso personal** y utilizarlo como una herramienta para afianzar habilidades prácticas en ciberseguridad.  
@@ -36,6 +42,8 @@ Mi meta es seguir ampliando conocimientos en:
 • Análisis de tráfico y comportamiento  
 • Aptitudes técnicas aplicadas en entornos SOC  
 • Automatización y scripting con Python y Bash  
+
+---
 
 ## 📬 Contacto
 
