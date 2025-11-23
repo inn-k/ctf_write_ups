@@ -1,42 +1,48 @@
-# 🛡️ Writeups de Máquinas CTF  
-Repositorio de análisis técnico y resolución de máquinas prácticas
-
+# 🛡️ LAB: Writeups | Máquinas | Retos CTF
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
 
-## 🔍 Sobre este repositorio
+---
+
+## 🌟 Descripción
 Este espacio reúne mis **writeups y notas técnicas** de máquinas resueltas en plataformas como **Hack The Box**, **TryHackMe**, y otros entornos de **CTF orientados a ciberseguridad**.
 
 El objetivo principal es documentar mi proceso de aprendizaje, reforzar conceptos clave y consolidar habilidades fundamentales para el rol de **Analista SOC** y Blue Team:
 
-• Reconocimiento y enumeración  
-• Análisis de servicios y vulnerabilidades  
-• Explotación controlada en entornos seguros  
-• Escalación de privilegios  
-• Prácticas orientadas a detección y análisis defensivo  
+• Reconocimiento y enumeración.  
+• Análisis de servicios y vulnerabilidades.  
+• Explotación controlada en entornos seguros.  
+• Escalación de privilegios.  
+• Prácticas orientadas a detección y análisis defensivo.  
 
 Cada writeup busca mantener un enfoque **claro, estructurado y replicable**, priorizando la comprensión técnica por encima de la ejecución automática.
+
+---
 
 ## 📁 Contenido
 En este repositorio se puede encontrar:
 
-• 🖥️ **Writeups completos** de máquinas Linux y Windows  
-• 🧪 **Notas de laboratorio** y metodologías de análisis  
-• ⚙️ **Comandos, scripts y técnicas utilizadas**  
-• 📚 **Aprendizajes clave y referencias**  
+•  **Writeups completos** de máquinas Linux y Windows.  
+•  **Notas de laboratorio** y metodologías de análisis.  
+•  **Comandos, scripts y técnicas utilizadas**.  
+•  **Aprendizajes clave y referencias**.  
+
+---
 
 ## 🎯 Objetivo
 **Registrar el progreso personal** y utilizarlo como una herramienta para afianzar habilidades prácticas en ciberseguridad.  
 Mi meta es seguir ampliando conocimientos en:
 
-• Blue Team y detección de amenazas  
-• Análisis de tráfico y comportamiento  
-• Aptitudes técnicas aplicadas en entornos SOC  
-• Automatización y scripting con Python y Bash  
+• Blue Team y detección de amenazas.  
+• Análisis de tráfico y comportamiento.  
+• Aptitudes técnicas aplicadas en entornos SOC.  
+• Automatización y scripting con Python y Bash.  
+
+---
 
 ## 📬 Contacto
 
